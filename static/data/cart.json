@@ -1,0 +1,36 @@
+{
+    "cartList": [
+        {
+            "title": "橙子",
+            "picture": "./static/img/product-1.jpg",
+            "price": 19,
+            "count": 1,
+            "checked": false,
+            "min": 1
+        },
+        {
+            "title": "橙子1",
+            "picture": "./static/img/product-1.jpg",
+            "price": 32,
+            "count": 1,
+            "checked": false,
+            "min": 1
+        },
+        {
+            "title": "橙子2",
+            "picture": "./static/img/product-1.jpg",
+            "price": 21,
+            "count": 1,
+            "checked": false,
+            "min": 1
+        },
+        {
+            "title": "橙子3",
+            "picture": "./static/img/product-1.jpg",
+            "price": 12,
+            "count": 1,
+            "checked": false,
+            "min": 1
+        }
+    ]
+}
